@@ -1,0 +1,5 @@
+C:\Users\carlo\Desktop\DotNetWebTemplatecompiler\DotNetWeb.Console\obj\Debug\net5.0\DotNetWeb.Console.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\DotNetWebTemplatecompiler\DotNetWeb.Console\obj\Debug\net5.0\DotNetWeb.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\DotNetWebTemplatecompiler\DotNetWeb.Console\obj\Debug\net5.0\DotNetWeb.Console.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\DotNetWebTemplatecompiler\DotNetWeb.Console\obj\Debug\net5.0\DotNetWeb.Console.AssemblyInfo.cs
+C:\Users\carlo\Desktop\DotNetWebTemplatecompiler\DotNetWeb.Console\obj\Debug\net5.0\DotNetWeb.Console.csproj.CoreCompileInputs.cache
